@@ -2,7 +2,7 @@
 import unittest
 import cap
 
-# create a test class
+# create a test class.
 
 
 class test_cap(unittest.TestCase):
